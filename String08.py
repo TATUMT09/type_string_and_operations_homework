@@ -7,4 +7,7 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return 
+    return "a,b"
+a="rirst"
+b="last"
+print(main(a,b))
